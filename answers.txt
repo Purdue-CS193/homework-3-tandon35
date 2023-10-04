@@ -6,4 +6,4 @@ Task 1:
 'git fetch' brings the changes from the remote (central) directory to the local directory. For example, the edit I made on answers.txt on GitHub did not automatically update on my local directory, so I ran git fetch to update this change.
 Task 2:
 // Under this line, describe the difference between Git and GitHub
-
+Git is local to your computer while GitHub is the central repository that you access from your browswer. Github is where you will clone your repository from and pull any changes from (if you made any changes on the broswer). Git is used to make changes on a local version of the repository and commit and push these changes when done to the central repository (GitHub).
