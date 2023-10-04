@@ -3,7 +3,7 @@ Keep up the grind!!!
 
 Task 1: 
 // Under this line, describe what the command 'git fetch' does
-
+'git fetch' brings the changes from the remote (central) directory to the local directory. For example, the edit I made on answers.txt on GitHub did not automatically update on my local directory, so I ran git fetch to update this change.
 Task 2:
 // Under this line, describe the difference between Git and GitHub
 
